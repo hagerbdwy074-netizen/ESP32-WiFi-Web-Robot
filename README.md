@@ -56,5 +56,3 @@ An embedded C++ firmware that turns an ESP32 microcontroller into a self-hosted 
    * Use the on-screen directional buttons (**Forward**, **Backward**, **Left**, **Right**, **Stop**) to control the robot.
 
 ---
-
-## 📂 Project Structure
